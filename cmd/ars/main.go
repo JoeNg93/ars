@@ -4,11 +4,12 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	"github.com/JoeNg93/ars/pkg/aws"
-	"github.com/JoeNg93/ars/pkg/browser"
 	"log"
 	"strings"
 	"time"
+
+	"github.com/JoeNg93/ars/pkg/aws"
+	"github.com/JoeNg93/ars/pkg/browser"
 
 	"github.com/manifoldco/promptui"
 )
