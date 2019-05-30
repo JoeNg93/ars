@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/JoeNg93/ars/pkg/aws"
-	"github.com/JoeNg93/ars/pkg/browser"
+	"github.com/JoeNg93/ars/internal/browser"
 
 	"github.com/manifoldco/promptui"
 )
